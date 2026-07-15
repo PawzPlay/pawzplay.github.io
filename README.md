@@ -1,2 +1,0 @@
-# pawzplay.github.io
-Public
